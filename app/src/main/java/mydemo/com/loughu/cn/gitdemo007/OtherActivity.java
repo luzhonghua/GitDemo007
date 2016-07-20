@@ -13,5 +13,6 @@ public class OtherActivity  extends Activity{
         setContentView(R.layout.activity_main);
         System.out.println("haha");
         System.out.println("haha2");
+        System.out.println("haha4");
     }
 }
