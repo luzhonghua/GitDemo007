@@ -12,5 +12,6 @@ public class OtherActivity  extends Activity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("haha");
+        System.out.println("haha2");
     }
 }
